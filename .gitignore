@@ -10,3 +10,7 @@ __pycache__/
 
 # Pytest cache
 .pytest_cache/
+
+# Challenge source data
+data/*
+!data/.gitkeep
