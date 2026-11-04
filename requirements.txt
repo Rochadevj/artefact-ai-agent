@@ -1,0 +1,5 @@
+groq
+pandas
+pypdf
+python-dotenv
+pytest
